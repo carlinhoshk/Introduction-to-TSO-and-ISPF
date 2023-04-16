@@ -1,0 +1,5 @@
+16:46
+13/04/2022
+
+- Exercicio para criar um membro e salvar e editar pelo ispf. 
+ usar o i5 na barra da esquerda pode adicionar 5 linhas ao arquivo 
